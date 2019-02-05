@@ -26,7 +26,6 @@
   - Work-products are created throughout the software development life cycle (SDLC). As soon as these are ready, we can test them. As soon as these are ready, we can test them.
   - Cost escalation model
   - The earlier a problem (defect) is found, the less it costs to fix.
-  - Many problems in software systems can be traced back to missing or incorrect require- ments.
   - Requirement documents are the basis for acceptance tests. Testing can begin as soon as those are available.
   - Many problems in software systems can be traced back to missing or incorrect requirements.
   
