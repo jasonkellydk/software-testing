@@ -1,6 +1,3 @@
-# Chapter 1
-
-> An awesome project.
+# Chapter 1 - Fundementals of testing
 
 done like a true software developer
-

@@ -12,38 +12,30 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      // complete configuration parameters
+      loadSidebar: true,
+      name: 'Testing - Software development',
+      coverpage: true,
+      repo: '',
       search: {
         maxAge: 86400000, // Expiration time, the default one day
         paths: [
           '/', // => /README.md
         ], // or 'auto'
-        placeholder: 'Type to search',
-
         // Localization
         placeholder: {
           '/': 'Type to search'
         },
-
-        noData: 'No Results!',
-
         // Localization
         noData: {
           '/': 'No Results'
         },
-
         // Headline depth, 1 - 6
         depth: 2,
-
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-
         // To avoid search index collision
         // between multiple websites under the same domain
         namespace: 'sd19w2-test',
       },
-      name: '',
-      coverpage: true,
-      repo: ''
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
