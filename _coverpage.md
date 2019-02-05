@@ -1,8 +1,8 @@
-# Unit testing <small>SD19W2</small>
+# Software Development @ KEA
+### by Jarl Eriksen and Jason Kelly
 
-- Full text searchable
-- Written in markdown
-- Easy to understand and copy
+- Full text searchable notes
+- Written professionally in markdown
+- Easy to understand
 
 [GitHub](https://github.com/jasonkellydk/sd19w2-test/)
-[Get Started](#docsify)
