@@ -2,12 +2,12 @@
 
 # Software development models
 ### Waterfall model
-![waterfall-model](assets/waterfall-model.png)
+![waterfall-model](../assets/waterfall-model.png)
 - The waterfall model focuses on elaborating the initial requirements.
 As shown in the model above the waterfall model 
 
 ### V-model (sequential development model)
-![v-model](assets/v-model.png)
+![v-model](../assets/v-model.png)
 
 # Blackbox - specification based
 
