@@ -1,4 +1,5 @@
-# Testing
+
+## Fundamentals
 - Exhaustive testing of complex systems is not possible
   - A test approach in which all possible data combinations are use.
 - Do the right sort of testing instead of trying to test everything. 
