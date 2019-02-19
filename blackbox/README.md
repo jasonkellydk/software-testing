@@ -1,4 +1,4 @@
-# Blackbox - specification based
+# Black box - specification based
 + Focus on specifications
 + Technique derived from specs or some model(=test basis)
 + Important to separate definition of what it is **(specs)** from how it should work **(design)**
