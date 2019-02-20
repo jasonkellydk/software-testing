@@ -28,3 +28,19 @@
   - Many problems in software systems can be traced back to missing or incorrect require- ments.
   - Requirement documents are the basis for acceptance tests. Testing can begin as soon as those are available.
   - Many problems in software systems can be traced back to missing or incorrect requirements.
+
+## Test coverage
+
+A standard measure of a test suite’s comprehensiveness is coverage
+
+some examples:
+
+* **method coverage**
+* **branch coverage**
+* **path coverage**
+
+**method coverage:** does the test suite make sure that every method (including function, procedure, constructor, property, indexer, action listener) gets executed at least once? statement coverage: does the test suite make sure that every statement of every method gets executed at least once?
+
+**branch coverage:** does the test suite make sure that every transfer of control gets exe- cuted at least once?
+
+**path coverage:** does the test suite make sure that every execution path through the program gets executed at least once?
